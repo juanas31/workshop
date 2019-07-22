@@ -1,0 +1,8 @@
+language: 'node.js'
+
+cache:
+  despendecies:
+
+script:
+  - npm run parcel:build
+
